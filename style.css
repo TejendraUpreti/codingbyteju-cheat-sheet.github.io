@@ -83,7 +83,7 @@ nav > ul.left {
 }
 
 nav > ul > li {
-    margin: 0px 20px;
+    margin: 0px 18px;
     color: var(--font-color-light);
     display: flex;
     flex-direction: column;
